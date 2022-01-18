@@ -1,5 +1,5 @@
 export class Division {
     _id?:any;
-    neme?:string;
+    name?:string;
     description?:string;
 }
